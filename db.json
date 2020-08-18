@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed harddrive on workstation 005",
+      "attention": false,
+      "date": "08-18-2020",
+      "tech": "Osama Khan"
+    },
+    {
+      "id": 2,
+      "message": "Work station 065 is not working",
+      "attention": true,
+      "date": "08-18-2020",
+      "tech": "abul ali"
+    },
+    {
+      "id": 3,
+      "message": "Work station 023 needs attention",
+      "attention": true,
+      "date": "08-18-2020",
+      "tech": "abul ali"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "abul",
+      "lastName": "ali"
+    },
+    {
+      "id": 2,
+      "firstName": "Osama",
+      "lastName": "Khan"
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Wilson",
+      "id": 3
+    }
+  ]
+}
